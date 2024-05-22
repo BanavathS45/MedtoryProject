@@ -52,6 +52,7 @@ function Additem() {
       <Header />
       <Preview />
       <div className="d-flex w-100 justify-content-center align-items-center mt-5">
+        <h1>hjhjhjhj</h1>
         <form className="w-75">
           <h1 className="text-center addItem" style={{color:"rgb(3, 3, 96)"}}>ADD ITEM</h1>
           <div className="inputFields" style={style}>
